@@ -2,4 +2,8 @@
 # Desarrollo de Aplicaciones Web
 ## Juan David Murillo
 ### Universidad de La Sabana
-#### 2024 - I
+#### 2025 - I
+### front desplegado: front-comida-sabana.vercel.app
+### back desplegado: https://comida-sabana-production-73b5.up.railway.app
+### repositorio de front desplegado: https://github.com/BrunoPMerino/front-comida-sabana
+### respositorio de back desplegado: https://github.com/DiegoEscalante/comida-sabana
